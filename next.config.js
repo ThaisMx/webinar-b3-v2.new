@@ -14,7 +14,7 @@ const nextConfig = {
     return {
       beforeFiles: [
         {
-          source: '/webinar-b3-v1',
+          source: '/webinar-b3-v2',
           destination: '/'
         },
         {
