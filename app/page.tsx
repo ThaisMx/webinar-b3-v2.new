@@ -9,7 +9,7 @@ export default function Home() {
   useEffect(() => {
     // Adiciona o script do WebinarJam dinamicamente
     const script = document.createElement('script');
-    script.src = "https://event.webinarjam.com/register/7y2y9c73/embed-form?formButtonText=Sistema%20de%205%20Partes%20-%20Gr%C3%A1tis!%20&formAccentColor=%2329b6f6&formAccentOpacity=0.95&formBgColor=%23ffffff&formBgOpacity=1";
+    script.src = "https://event.webinarjam.com/register/4yoyxcx9/embed-form?formButtonText=Sistema%20de%205%20Partes%20-%20Gr%C3%A1tis&formAccentColor=%2329b6f6&formAccentOpacity=0.95&formBgColor=%23ffffff&formBgOpacity=1";
     script.async = true;
     
     // Encontra o wrapper do formulário e adiciona o script
@@ -35,10 +35,9 @@ export default function Home() {
         <header className="text-center mb-8 pb-8 border-b border-white/10">
           <h1 className="text-2xl md:text-3xl font-bold mb-4">Willian Aksenen®</h1>
           <div className="text-sm text-gray-400 mb-4">----------------- Acesso Limitado -----------------</div>
-          <h2 className="text-xl md:text-2xl mb-2">Sistema proprietário de 5 partes para Segurança Financeira:</h2>
+          <h2 className="text-xl md:text-2xl mb-2">Quer viver de trade? Então fuja da B3:</h2>
           <div className="text-2xl md:text-4xl font-bold mb-8">
-            Aprenda Como Conquistar{" "}
-            <span className="underline decoration-4">MUITO Dinheiro</span> Investindo em Dólar
+            Descubra por que o mercado internacional é a única rota viável para traders que querem ser consistentes e lucrativos.
           </div>
         </header>
 
@@ -74,7 +73,7 @@ export default function Home() {
                 Partes!
               </h3>
             </div>
-            <div className="wj-embed-wrapper" data-webinar-hash="7y2y9c73"></div>
+            <div className="wj-embed-wrapper" data-webinar-hash="4yoyxcx9"></div>
           </div>
         </div>
 
