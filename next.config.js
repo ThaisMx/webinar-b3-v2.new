@@ -9,7 +9,7 @@ const nextConfig = {
     serverActions: true,
   },
   trailingSlash: true,
-  basePath: '/webinar-b3-v1',
+  basePath: '/webinar-b3-v2',
   async rewrites() {
     return {
       beforeFiles: [
@@ -18,7 +18,7 @@ const nextConfig = {
           destination: '/'
         },
         {
-          source: '/webinar-b3-v1/:path*',
+          source: '/webinar-b3-v2/:path*',
           destination: '/:path*'
         }
       ]
