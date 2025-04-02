@@ -37,7 +37,7 @@ export default function Home() {
           <div className="text-sm text-gray-400 mb-4">----------------- Acesso Limitado -----------------</div>
           <h2 className="text-xl md:text-2xl mb-2">Quer viver de trade? Então fuja da B3:</h2>
           <div className="text-2xl md:text-4xl font-bold mb-8">
-            Descubra por que o mercado internacional <span className="underline decoration-4">é a única rota viável para traders</span> que querem ser consistentes e lucrativos.
+            Descubra porque <span className="underline decoration-4">traders que realmente lucram abandonaram a B3</span> e hoje operam capital patrocinado no mercado internacional sem arriscar um real do próprio bolso.
           </div>
         </header>
 
